@@ -1,4 +1,4 @@
-## Olá eu sou a Kamila Cardozo 😁
+## Olá sou a Kamila Cardozo 😁
 ***
 Sou estudante de Desenvolvimento de Sistemas e estou começando a minha jornada no GitHub afim de compartilhar meus projetos e contribuir com a comunidade.
 
