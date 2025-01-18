@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá eu sou a Kamila Cardozo 😁
+***
+Sou estudante de Desenvolvimento de Sistemas e estou começando a minha jornada no GitHub afim de compartilhar meus projetos e contribuir com a comunidade.
 
-<!--
-**CodeByKamis/CodeByKamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Atualmente estou explorando:
+- __Python:__ Desenvolvendo pequenos projetos
+- __Java:__ Iniciei meus estudos recentemente, mas está sendo interessante
+- __HTML e CSS:__ Desenvolvendo interfaces simples para uma melhor evolução
+- __Boas Práticas:__ Aprendendo sobre estruturação de código, testes e praticas para tornar um código mais sustentável
 
-Here are some ideas to get you started:
+Estou animada para explorar, aprender e contribuir com projetos de código aberto. Se você tem sugestões, ideias ou gostaria de colaborar, fique à vontade para me chamar! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/user-attachments/assets/8f65ed14-3bb0-4407-9c32-52e9a5c16cb4)
