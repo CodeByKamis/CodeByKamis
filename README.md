@@ -9,5 +9,3 @@ Sou estudante de Desenvolvimento de Sistemas e estou começando a minha jornada 
 - __Boas Práticas:__ Aprendendo sobre estruturação de código, testes e praticas para tornar um código mais sustentável
 
 Estou animada para explorar, aprender e contribuir com projetos de código aberto. Se você tem sugestões, ideias ou gostaria de colaborar, fique à vontade para me chamar! 
-
-![image](https://github.com/user-attachments/assets/8f65ed14-3bb0-4407-9c32-52e9a5c16cb4)
