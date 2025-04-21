@@ -2,16 +2,16 @@
 
 
 
+
 <p align="center">
-<br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=✨ Sejam+Bem-Vindos(as)! ✨;✨ Desenvolvedora+FullStack ✨;Kamila+Cardozo&font=Fira%20Code&center=true&width=500&height=50&color=ea638c&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Sejam+Bem-Vindos(as)!;Desenvolvedora+FullStack;--+Kamila+Cardozo+--;&font=Fira%20Code&center=true&width=500&height=50&color=ea638c&vCenter=true&pause=1000&size=24" />
 </p>
 
 
 ---
 <br>
 
-## 🌷 Sobre mim :)
+## 🌷 Sobre mim ◕‿◕
 
 <p> Olá! Me chamo Kamila Cardozo, tenho 19 anos e sou estudante de Desenvolvimento de Sistemas no SENAI. Estou no início da minha jornada como desenvolvedora FullStack e sou apaixonada por tecnologia e inovação.
 Atualmente, estou me aprofundando em:
