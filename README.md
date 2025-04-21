@@ -2,6 +2,7 @@
 
 
 
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Sejam+Bem-Vindos(as)!;Desenvolvedora+FullStack;--+Kamila+Cardozo+--;&font=Fira%20Code&center=true&width=500&height=50&color=ea638c&vCenter=true&pause=1000&size=24" />
