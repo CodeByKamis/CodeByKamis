@@ -144,6 +144,3 @@ Estou animada para aprender, crescer e contribuir com projetos de código aberto
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByKamis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
-
-
-![snake gif](https://github.com/CodeByKamis/CodeByKamis/blob/output/github-contribution-grid-snake.svg)
