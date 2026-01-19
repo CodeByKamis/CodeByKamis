@@ -19,11 +19,11 @@ Sou **Desenvolvedora Fullstack** com foco em criar sistemas modernos, acessívei
 
 ## 🛠️ Stack de Tecnologias
 
-### 🎨 Design & UI/UX
+### Design & UI/UX
 - Figma
 - SketchUp
 
-### 🧩 Front-end
+### Front-end
 - JavaScript (ES6+)
 - TypeScript
 - React
@@ -32,17 +32,17 @@ Sou **Desenvolvedora Fullstack** com foco em criar sistemas modernos, acessívei
 - CSS
 - SCSS
 
-### ⚙️ Back-end
+### Back-end
 - Python
 - Django
 - TypeScript (em aplicações com Next.js)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - SQLite
 - MySQL
 - PostgreSQL (em aprendizado)
 
-### 🧰 Outras Ferramentas
+### Outras Ferramentas
 - Git & GitHub
 - Trello
 - Notion
