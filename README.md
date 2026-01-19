@@ -46,6 +46,7 @@ Sou **Desenvolvedora Fullstack** com foco em criar sistemas modernos, acessívei
 - Git & GitHub
 - Trello
 - Notion
+- Miro
 
 <br>
 
